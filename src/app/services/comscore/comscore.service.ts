@@ -1,10 +1,10 @@
 import { Injectable } from "@angular/core";
-import { BehaviorSubject, Subject } from "rxjs";
+import { Subject } from "rxjs";
 
 const COMSCORE_CONFIG = {
-  c2: `12345678`,
-  mp_brand: `brandname`,
-  ns_site: `example.ch`,
+  c2: `28015231`,
+  mp_brand: `ajour`,
+  ns_site: `ajour.ch`,
 }
 
 declare global {
